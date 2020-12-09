@@ -1,3 +1,14 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shi974&count_private=true&show_icons=true&theme=radical)
+Hey there! I'm Shi974 and I'm from Reunion Island (FR) :palm_tree: I'm a self-taught FullStack Developper currently working @ <b>CRIJ Réunion</b> and freelancing on my spare time :briefcase:
 
-<em>Stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)</em>
+I love working with Laravel and JavaScript.
+
+Feel free to contact me ! :wave:
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shi974&count_private=true&show_icons=true&theme=cobalt) <br/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shi974&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shi974&langs_count=6&layout=compact" />
+</a>
