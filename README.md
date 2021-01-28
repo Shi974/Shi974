@@ -2,7 +2,7 @@ Hey there! I'm Shi974 and I'm from Reunion Island (FR) :palm_tree: I'm a self-ta
 
 I love working with Laravel and JavaScript.
 
-Feel free to contact me ! :wave:
+Feel free to contact me ! :wave: Or check my webpage :computer: :arrow_forward: [shi974.github.io](https://shi974.github.io)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shi974&count_private=true&show_icons=true&theme=cobalt) <br/>
 
