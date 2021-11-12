@@ -7,8 +7,5 @@ Feel free to contact me ! :wave: Or check my webpage :computer: :arrow_forward: 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shi974&count_private=true&show_icons=true&theme=cobalt) <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shi974&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shi974&langs_count=6&layout=compact" />
 </a>
