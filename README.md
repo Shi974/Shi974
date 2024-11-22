@@ -1,4 +1,4 @@
-Hey there! I'm Shi974 and I'm from :reunion: Reunion Island ( :fr: ) :palm_tree: I'm a self-taught FullStack Developper currently working @ <b>CRIJ Réunion</b> and freelancing on my spare time :briefcase: I'm also an occasional mod helper and translator :gear:
+Hey there! I'm Shi974 and I'm from :reunion: Reunion Island ( :fr: ) :palm_tree: I'm a self-taught FullStack Developper currently working @ <b>CRIJ Réunion</b> and freelancing on my spare time :briefcase: I'm also an occasional mod / plugin helper and translator :gear:
 
 I love working with Laravel, JavaScript or Python.
 
