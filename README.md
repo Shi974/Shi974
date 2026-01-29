@@ -3,5 +3,3 @@ Hey there! I'm Shi974 and I'm from :reunion: Reunion Island ( :fr: ) :palm_tree:
 I love working with Laravel, JavaScript or Python.
 
 Feel free to contact me ! :wave: Or check my webpage :computer: :arrow_forward: [shi974.github.io](https://shi974.github.io)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shi974&count_private=true&show_icons=true&theme=cobalt) <br/>
