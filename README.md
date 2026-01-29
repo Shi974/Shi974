@@ -9,3 +9,5 @@ Feel free to contact me ! :wave: Or check my webpage :computer: :arrow_forward: 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shi974&langs_count=6&layout=compact" />
 </a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shi974)](https://github.com/anuraghazra/github-readme-stats)
